@@ -36,15 +36,3 @@ for key, value in god_dic["釋迦牟尼佛"].items():
 #print(god_dic,file=f)
 f.close()
 
-
-# In[27]:
-
-
-print("a")
-
-
-# In[ ]:
-
-
-
-
